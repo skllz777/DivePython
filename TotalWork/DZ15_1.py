@@ -4,7 +4,7 @@
 с передачей параметров.
 
 Задача N4 из 11го домаашнего задания:
-Homework/DZ11/DZ11_4.py 'https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ11/DZ11_4.py'
+
 """
 import itertools
 import logging
